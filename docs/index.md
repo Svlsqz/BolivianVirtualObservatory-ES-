@@ -7,15 +7,34 @@
 
 Feel free to browse through our project webpage. 
 
+
 Thank you for visiting,
 
-Bolivian Virtual Observatory (BVO)
+**Bolivian Virtual Observatory (BVO)**
+
+# Content
+
+[1) Vision and Mission](1.VisionAndMission.md)
+
+[2) About the Project](2.AboutTheProject.md)
+
+[3) 2024 Call](3.2024Call.md)
+
+[4) The Team](4.TheTeam)
+
+[5) Science](5.Science.md)
+
+[6) Astrophotography](6.Astrophotography.md)
+
+[7) Academic Content](7..AcademicContent.md)
+
+[8) Contact](8.Contact)
 
 ## GitHub
 
-Folliwing link to GitHub: [AstroDev-GitHub](https://github.com/gabojaimesillanes/)
+Folliwing link to GitHub: [AstroDev-GitHub](https://github.com/GabrielJaimes-AstroDev/BolivianVirtualObservatory/)
 
-## Requirements
+## Requirements for code
 
 Python3.0,
 JupyterLab
