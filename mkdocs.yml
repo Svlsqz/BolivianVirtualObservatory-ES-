@@ -1,14 +1,14 @@
 site_name: Bolivian Virtual Observatory
 
 nav:
-  - Menu: 'index.md'
-  - 1. Vision and Mission: '1.VisionAndMission.md'
-  - 2. About the Project: '2.AboutTheProject.md'
-  - 3. 2024 Call: '3.2024Call.md'
-  - 4. The Team: '4.TheTeam.md'
-  - 5. Science: '5.Science.md'
-  - 6. Astrophotography: '6.Astrophotography.md'
-  - 7. Contact: '7.Contact.md'
+  - Menu: '0.index.md'
+    - 1. Vision and Mission: '1.VisionAndMission.md'
+    - 2. About the Project: '2.AboutTheProject.md'
+    - 3. 2024 Call: '3.2024Call.md'
+    - 4. The Team: '4.TheTeam.md'
+    - 5. Science: '5.Science.md'
+    - 6. Astrophotography: '6.Astrophotography.md'
+    - 7. Contact: '7.Contact.md'
       
 
 theme: readthedocs
