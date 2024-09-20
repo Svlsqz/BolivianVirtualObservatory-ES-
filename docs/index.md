@@ -11,3 +11,11 @@ Thank you for visiting,
 
 Bolivian Virtual Observatory (BVO)
 
+## GitHub
+
+Folliwing link to GitHub: [AstroDev-GitHub](https://github.com/gabojaimesillanes/)
+
+## Requirements
+
+Python3.0,
+JupyterLab
