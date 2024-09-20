@@ -9,6 +9,9 @@ nav:
   - 5. Science: '5.Science.md'
   - 6. Astrophotography: '6.Astrophotography.md'
   - 7. Contact: '7.Contact.md'
+      
+
+theme: readthedocs
 
 
 
