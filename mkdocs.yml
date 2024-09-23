@@ -1,5 +1,5 @@
 site_name: Bolivian Virtual Observatory
-favicon: 'im/BVO_favicon.png' 
+favicon: 'im/BVO_favicon.ico' 
 
 nav:
   - Welcome Page: 'index.md'
