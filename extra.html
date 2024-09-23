@@ -5,8 +5,25 @@
       pageLanguage: 'en',  // The original language of the page
       includedLanguages: 'es,en',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-      defaultLanguage: 'es' // Set the default language to Spanish
     }, 'google_translate_element');
   }
+
+  // Automatically translate to Spanish on page load
+  function translatePage() {
+    var translateElement = new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      includedLanguages: 'es,en',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+    }, 'google_translate_element');
+    
+    // Trigger the translation to Spanish
+    setTimeout(function() {
+      var dropdown = document.querySelector('.skiptranslate select');
+      if (dropdown) {
+        dropdown.value = 'es';  // Set the dropdown to Spanish
+        dropdown.dispatchEvent(new Event('change'));  // Trigger the change event
+      }
+    }, 1000);  // Delay to ensure the dropdown is available
+  }
 </script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=translatePage"></script>
