@@ -1,5 +1,7 @@
 # Wellcome to Bolivian Virtual Observatory
 
+---
+
 <div style="text-align: center;">
     <img src="im/AnimationBVO.gif" alt="image1">
 </div>
