@@ -1,4 +1,11 @@
-# Wellcome to Bolivian Virtual Observatory
+## Welcome to the Bolivian Virtual Observatory
+
+<div id="language-buttons">
+  <button onclick="translateToSpanish()">Translate to Spanish</button>
+  <button onclick="translateToEnglish()">Translate to English</button>
+</div>
+
+<!-- Your content goes here -->
 
 ---
 
