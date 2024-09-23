@@ -6,9 +6,8 @@
 
 ---
 
-
 <p style="text-align: justify;">
-    The Bolivian Virtual Observatory (BVO) project seeks the implementation of free workshops on the study of transient astronomical phenomena and astrophotography processing through a campaign of astronomical observations planned by a team from Bolivia. In order to overcome accessibility barriers to professional telescopes, high costs for the acquisition of data with scientific value and the need for specialized training, this significant challenge is addressed for the development of astronomical research in Bolivia. The project proposes to carry out research through the use of remote telescopes in professional observatories located in sites with ideal sky quality such as Hawaii, the Canary Islands, Chile, Australia and South Africa. Thus training students and educators in dedicated astronomical observation programs.
+    <em>The Bolivian Virtual Observatory (BVO) project seeks the implementation of free workshops on the study of transient astronomical phenomena and astrophotography processing through a campaign of astronomical observations planned by a team from Bolivia. In order to overcome accessibility barriers to professional telescopes, high costs for the acquisition of data with scientific value and the need for specialized training, this significant challenge is addressed for the development of astronomical research in Bolivia. The project proposes to carry out research through the use of remote telescopes in professional observatories located in sites with ideal sky quality such as Hawaii, the Canary Islands, Chile, Australia and South Africa. Thus training students and educators in dedicated astronomical observation programs.</em>
 </p>
 
 
