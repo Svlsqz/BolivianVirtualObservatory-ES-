@@ -1,18 +1,5 @@
 ## Welcome to the Bolivian Virtual Observatory
 
-<div id="language-buttons">
-  <button onclick="translateToSpanish()">Traducir Pagina a Español</button>
-  <button onclick="translateToEnglish()">Translate Page to English</button>
-</div>
-
-<!-- Your content goes here -->
-
----
-
-<div style="text-align: center;">
-    <img src="im/AnimationBVO.gif" alt="image1">
-</div>
-
 ---
 
 <p style="text-align: justify;">
