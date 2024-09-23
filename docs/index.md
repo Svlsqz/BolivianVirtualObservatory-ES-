@@ -42,7 +42,7 @@ Feel free to browse through our project webpage.
 
 [6) Astrophotography](6.Astrophotography.md)
 
-[7) Academic Content](7..AcademicContent.md)
+[7) Academic Content](7.AcademicContent.md)
 
 [8) Contact](8.Contact)
 
