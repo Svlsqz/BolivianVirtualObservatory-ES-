@@ -1,29 +1,30 @@
 <div id="google_translate_element"></div>
+<button id="translate-button" onclick="translateToSpanish()">Translate to Spanish</button>
+<button id="translate-button-en" onclick="translateToEnglish()">Translate to English</button>
+
 <script type="text/javascript">
   function googleTranslateElementInit() {
     new google.translate.TranslateElement({
-      pageLanguage: 'en',  // The original language of the page
+      pageLanguage: 'en',
       includedLanguages: 'es,en',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
     }, 'google_translate_element');
   }
 
-  // Automatically translate to Spanish on page load
-  function translatePage() {
-    var translateElement = new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      includedLanguages: 'es,en',
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-    }, 'google_translate_element');
-    
-    // Trigger the translation to Spanish
-    setTimeout(function() {
-      var dropdown = document.querySelector('.skiptranslate select');
-      if (dropdown) {
-        dropdown.value = 'es';  // Set the dropdown to Spanish
-        dropdown.dispatchEvent(new Event('change'));  // Trigger the change event
-      }
-    }, 1000);  // Delay to ensure the dropdown is available
+  function translateToSpanish() {
+    var dropdown = document.querySelector('.skiptranslate select');
+    if (dropdown) {
+      dropdown.value = 'es';  // Set the dropdown to Spanish
+      dropdown.dispatchEvent(new Event('change'));  // Trigger the change event
+    }
+  }
+
+  function translateToEnglish() {
+    var dropdown = document.querySelector('.skiptranslate select');
+    if (dropdown) {
+      dropdown.value = 'en';  // Set the dropdown to English
+      dropdown.dispatchEvent(new Event('change'));  // Trigger the change event
+    }
   }
 </script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=translatePage"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
