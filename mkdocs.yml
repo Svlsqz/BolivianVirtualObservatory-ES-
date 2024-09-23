@@ -1,7 +1,7 @@
 site_name: Bolivian Virtual Observatory
 
 nav:
-  - Wellcome Page: 'index.md'
+  - Welcome Page: 'index.md'
   - Menu:
     - 1. Vision and Mission: '1.VisionAndMission.md'
     - 2. About the Project: '2.AboutTheProject.md'
@@ -14,16 +14,5 @@ nav:
       
 theme: readthedocs
 
-<div id="google_translate_element"></div>
-<script type="text/javascript">
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      includedLanguages: 'es,en',
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-    }, 'google_translate_element');
-  }
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-
+extra_javascript:
+  - extra.html
