@@ -1,7 +1,7 @@
 site_name: Bolivian Virtual Observatory
 
 nav:
-  - Wellcome Page: '0.index.md'
+  - Wellcome Page: 'index.md'
   - Menu:
     - 1. Vision and Mission: '1.VisionAndMission.md'
     - 2. About the Project: '2.AboutTheProject.md'
@@ -9,7 +9,7 @@ nav:
     - 4. The Team: '4.TheTeam.md'
     - 5. Science: '5.Science.md'
     - 6. Astrophotography: '6.Astrophotography.md'
-    - 7. Academic Content: '7.AcademicContent.md'
+    - 7. BVO Academic Content: '7.AcademicContent.md'
     - 8. Contact: '8.Contact.md'
       
 theme: readthedocs
