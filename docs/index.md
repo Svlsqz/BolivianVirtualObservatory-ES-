@@ -1,8 +1,8 @@
 ## Welcome to the Bolivian Virtual Observatory
 
 <div id="language-buttons">
-  <button onclick="translateToSpanish()">Translate to Spanish</button>
-  <button onclick="translateToEnglish()">Translate to English</button>
+  <button onclick="translateToSpanish()">Traducir Pagina a Español</button>
+  <button onclick="translateToEnglish()">Translate Page to English</button>
 </div>
 
 <!-- Your content goes here -->
