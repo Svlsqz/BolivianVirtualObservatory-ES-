@@ -42,7 +42,7 @@ Feel free to browse through our project webpage.
 
 ## GitHub
 
-Folliwing link to GitHub: [AstroDev-GitHub](https://github.com/GabrielJaimes-AstroDev/BolivianVirtualObservatory/)
+Folliwing link to GitHub: [BVO-GitHub](https://github.com/GabrielJaimes-AstroDev/Bolivian-Virtual-Observatory-BVO-/blob/main/1.Photometry_BVO.ipynb)
 
 ## Requirements for code
 
