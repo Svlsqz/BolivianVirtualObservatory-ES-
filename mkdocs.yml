@@ -13,7 +13,6 @@ nav:
     - 8. Contact: '8.Contact.md'
       
 theme: readthedocs
-  favicon: 'BVO_favicon.ico'
 
 extra_javascript:
   - extra.html
