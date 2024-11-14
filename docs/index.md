@@ -1,23 +1,23 @@
-## Welcome to the Bolivian Virtual Observatory
+## Bienvenido a Bolivian Virtual Observatory
 
 ---
 
 <p style="text-align: justify;">
-    <em>The Bolivian Virtual Observatory (BVO) project seeks the implementation of free workshops on the study of transient astronomical phenomena and astrophotography processing through a campaign of astronomical observations planned by a team from Bolivia. In order to overcome accessibility barriers to professional telescopes, high costs for the acquisition of data with scientific value and the need for specialized training, this significant challenge is addressed for the development of astronomical research in Bolivia. The project is led by MSc. Gabriel Jaimes (PI) and a team of Bolivian volunteers consisting of researchers, students, and professionals. It aims to conduct scientific research using the remote telescopes of the Las Cumbres Observatory (LCO), housed in professional observatories at prime locations with ideal sky conditions, including Hawaii, the Canary Islands, Chile, Australia, and South Africa. The BVO project provides students and educators with dedicated training in astronomical observation programs at no cost for participation.
+    <em>Bolivian Virtual Observatory (BVO) es un proyecto que busca la implementación de talleres gratuitos sobre el estudio de fenómenos astronómicos transitorios y el procesamiento de astrofotografía, a través de una campaña de observaciones astronómicas planificada por un equipo de Bolivia. Con el fin de superar barreras de accesibilidad a telescopios profesionales, los altos costos para la adquisición de datos con valor científico y la necesidad de capacitación especializada, este desafío aborda el desarrollo de la investigación astronómica en Bolivia. El proyecto es dirigido por MSc. Gabriel Jaimes (PI) y un equipo de voluntarios bolivianos compuesto por investigadores, estudiantes y profesionales. Tiene como objetivo realizar investigaciones científicas utilizando los telescopios remotos del Observatorio Las Cumbres (LCO), ubicados en observatorios profesionales en lugares privilegiados con condiciones ideales del cielo, incluidos Hawái, las Islas Canarias, Chile, Australia y Sudáfrica. El proyecto BVO ofrece a estudiantes y educadores formación dedicada en programas de observación astronómica sin costo alguno para la participación.
     </em>
 </p>
 
 
 ![image1](im/LCOTelescopes.png)
 
-A project Developed by:
+Un projecto Desarrollado por:
 
 ![image1](im/Logos_BVO.jpg)
 
-Feel free to browse through our project webpage. 
+Siéntete libre de explorar nuestra página web del proyecto.
 
 <div style="text-align: center;">
-    Thank you for visiting, <br><br>
+    Gracias por visitar, <br><br>
     <strong>Bolivian Virtual Observatory (BVO)</strong>
 </div>
 
@@ -25,27 +25,20 @@ Feel free to browse through our project webpage.
 
 # Content
 
-[1) Vision and Mission](1.VisionAndMission.md)
-
-[2) About the Project](2.AboutTheProject.md)
-
-[3) 2024 Call](3.2024Call.md)
-
-[4) The Team](4.TheTeam)
-
-[5) Science](5.Science.md)
-
-[6) Astrophotography](6.Astrophotography.md)
-
-[7) Academic Content](7.AcademicContent.md)
-
-[8) Contact](8.Contact)
+[1) Visión y Misión](1.VisiónYMisión.md)  
+[2) Acerca del Proyecto](2.SobreElProyecto.md)  
+[3) Convocatoria 2024](3.2024Convocatoria.md)  
+[4) El Equipo](4.Equipo.md)  
+[5) Ciencia](5.Ciencia.md)  
+[6) Astrofotografía](6.Astrofotografía.md)  
+[7) Contenido Académico](7.ContenidoAcadémico.md)  
+[8) Contacto](8.Contacto.md)  
 
 ## GitHub
 
-Following link to GitHub: [BVO-GitHub](https://github.com/GabrielJaimes-AstroDev/Bolivian-Virtual-Observatory-BVO-/blob/main/1.Photometry_BVO.ipynb)
+Link de GitHub: [BVO-GitHub](https://github.com/GabrielJaimes-AstroDev/Bolivian-Virtual-Observatory-BVO-/blob/main/1.Photometry_BVO.ipynb)
 
-## Requirements for code
+## Requerimientos para el codigo
 
 Python3.0,
 JupyterLab
